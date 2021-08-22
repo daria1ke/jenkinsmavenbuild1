@@ -21,7 +21,7 @@
 <body>
 <div class="header">
   <h1>Sample Website</h1>
-  <p>Thank you Jespo for all your efforts. Please take some Guinness on Zita's Bill!</p>
+  <p>Thank you Jespo for all your efforts. Go drink some wine (17 crimes)'s Bill!</p>
 </div>
 </body>
 </html>
